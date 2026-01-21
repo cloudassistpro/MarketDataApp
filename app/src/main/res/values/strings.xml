@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MarketDataApp</string>
+    <string name="market_data_app_nbtc_eth_eurusd">Market Data App\nBTC / ETH / EURUSD</string>
+    <string name="view_analysis_notebooks">View Analysis Notebooks</string>
+    <string name="market_analysis_notebooks">Market Analysis Notebooks</string>
+    <string name="intro_to_market_data_n_mock_crypto_forex_prices_n_structure_ready_for_real_apis"><![CDATA[• Intro to market data\n• Mock crypto & forex prices\n• Structure ready for real APIs]]></string>
+    <string name="open_notebooks_repository">Open Notebooks Repository</string>
+</resources>
