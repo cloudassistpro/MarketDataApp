@@ -23,8 +23,12 @@ This project is designed as:
 This app is complemented by Python Jupyter notebooks that explain and analyze
 market data concepts.
 
-👉 Notebooks repository:  
-**https://github.com/cloudassistpro/market-data-notebooks**
+## 📊 Data Analysis Notebooks
+
+The analytical notebooks used in this app are available here:
+
+- 📘 Notebooks Repository:  
+  https://github.com/cloudassistpro/market-data-notebooks
 
 ---
 
