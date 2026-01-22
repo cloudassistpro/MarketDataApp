@@ -62,7 +62,7 @@ The Android app provides a visual interface, while this repository contains
 the analytical notebooks used for explanation and education.
 
 
-<img width="526" height="720" alt="DAA" src="https://github.com/user-attachments/assets/f58384d4-db74-4d70-9c22-fadeb520a28c" />
+<img width="200" height="320" alt="DAA" src="https://github.com/user-attachments/assets/f58384d4-db74-4d70-9c22-fadeb520a28c" />
 
 
 
