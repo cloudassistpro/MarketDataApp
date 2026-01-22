@@ -46,3 +46,13 @@ market data concepts.
 
 ## 📦 Status
 Demo / Prototype – ready to extend with real APIs.
+
+## 🔗 Related Project
+
+This repository is part of the **MarketDataApp** project.
+
+- 📱 Android App:  
+  https://github.com/cloudassistpro/MarketDataApp
+
+The Android app provides a visual interface, while this repository contains
+the analytical notebooks used for explanation and education.
